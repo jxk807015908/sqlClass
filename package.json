@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mysql": "^2.17.1"
+  },
+  "scripts": {
+    "exec": "tsc index.ts"
+  }
+}
